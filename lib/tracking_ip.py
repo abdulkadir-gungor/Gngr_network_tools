@@ -14,8 +14,8 @@ import subprocess
 def func_tracert():
     #
     print('')
-    print('\t   Tracking route to ip   ')
-    print('\t--------------------------')
+    print('\t   Tracing route to ip   ')
+    print('\t-------------------------')
     print('')
     print('\tEnter Ip or hostname!')
     print('\t[Example:192.168.1.1] or')
