@@ -6,7 +6,7 @@ It is a tool for Windows operating systems that offer features such as "Show int
 
 Kaynak kodun derlenmiş ('exe' uzantılı) dosya hali https://drive.google.com/file/d/1Lf9jBqUvgf1N0CKR8QHuUeG8uiWPkcUQ/view?usp=sharing adresine konulmuştur. Rar şifresi "Gngr-V1.0".
 
-Kaynak kodun derlenmiş çalışır hali ile ilgili video *** adresinden izlenebilir.
+Kaynak kodun derlenmiş çalışır hali ile ilgili video https://www.youtube.com/watch?v=1Tyg7-YywCE adresinden izlenebilir.
 
 
 Gereksinimler
